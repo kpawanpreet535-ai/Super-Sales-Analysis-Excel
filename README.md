@@ -42,3 +42,6 @@ The objective of this project is to transform sales data into an interactive Exc
 ## 👨‍💻 Project By
 
 Pawanpreet Kaur
+## 📸 Dashboard Preview
+
+![Super Store Sales Dashboard](Dashboard.jpeg)
